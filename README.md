@@ -9,5 +9,5 @@
 напишите функцию, которая получает на вход исходный массив и возвращает 2
  минимальных значения
 
-Ccskr fyf ntcnjdjt pflfybt : https://github.com/EgorDema/testovoe_UCHI.RU/blob/main/task_1.rb
+Ccskr fyf ntcnjdjt pflfybt : [https://github.com/EgorDema/testovoe_UCHI.RU/blob/main/task_1.rb]
 
