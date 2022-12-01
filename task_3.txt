@@ -1,0 +1,11 @@
+Объясните разницу между двумя выражениями и скажите значения переменных el1, el2
+   el1 = true and false
+   el2 = true && false
+
+    (el1 = true) and false => false
+    el1 = true
+
+    el2 = (true && false) => false
+    el2 = false
+
+    Разница операторов "and" и "&&" в приоритете выполнения.
