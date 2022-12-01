@@ -7,6 +7,8 @@ for container in arr
   end
 end
 
+
+
 puts value.sum
 
 

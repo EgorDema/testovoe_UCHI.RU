@@ -8,4 +8,4 @@ SELECT COUNT(*) FROM "students" WHERE (created_at >= "01.09.2020")
 
 SELECT COUNT(*) FROM "students" WHERE "students"."parent_id" IS NOT NULL
 SELECT "students".* FROM "students" INNER JOIN "parents" "parent" ON "parent"."id" = "students"."parent_id" WHERE "parent"."name" = ?  [["name", "Marina"]]
-SELECT COUNT(*) FROM "students" WHERE "students"."parent_id" IS NULL                         
+SELECT COUNT(*) FROM "students" WHERE "students"."parent_id" IS NULL
