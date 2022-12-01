@@ -1,26 +1,9 @@
 # Тестовое для стажеров 
 
-Есть массив. [1, 2, 12, 34, 35, 6, 0, 34, 122, 124, 789, 999, 33, 54, 763, 893 ]
-a)напишите функцию, которая получает на вход исходный массив и возвращает 2
- максимальных значения
-b)напишите функцию, которая получает на вход исходный массив и возвращает 2
- минимальных значения
+Задание выполнил Демушкин Егор В.
 
-#V1
-a = [1, 2, 12, 34, 35, 6, 0, 34, 122, 124, 789, 999, 33, 54, 763, 893 ]
-puts a.max(2)
-puts a.min(2)
+Ссылка на резюме: https://hh.ru/resume/b6ca204dff0b665c2e0039ed1f6279634b784f
 
-#V2
+Все выполненые задания выложены на GitHub и GoogleDrive 
 
-def minimum(arr)
-  return arr.sort.slice(0..1)
-end
-def maximum(arr1)
-  return arr1.sort.pop(2)
-end
-puts minimum(a)
-puts maximum(a)
-
-
-
+Ссылка на GoogleDrive: https://drive.google.com/drive/folders/1qQzqt_nqUCTV1ntNcelfEcsNd4W7RH33?usp=share_link
